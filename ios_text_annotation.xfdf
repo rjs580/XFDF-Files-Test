@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xml:space="preserve" xmlns="http://ns.adobe.com/xfdf/"><annots><freetext creationdate="D:20231115041337Z" date="D:20231115041404Z" flags="print" fringe="0.000000,0.000000,0.000000,0.000000" name="54145288-8932-431E-8698-6A16A5E6C8F2" page="0" pspdf-text-should-fit="true" rect="399.460480,672.086182,516.167419,761.192078" title="Rutvik" width="0.000000"><contents>Test Text Annotation On iOS</contents>
+<contents-richtext><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.12" xfa:spec="2.0.2"><p>Test Text Annotation On iOS</p></body></contents-richtext>
+<defaultappearance>/Helvetica 24 Tf 0 0 0 rg </defaultappearance>
+<defaultstyle>font:24.00pt &quot;Helvetica&quot;; color:#000000; </defaultstyle>
+</freetext>
+</annots>
+</xfdf>

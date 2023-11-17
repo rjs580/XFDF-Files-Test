@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xml:space="preserve" xmlns="http://ns.adobe.com/xfdf/"><annots><freetext creationdate="D:20231115153810Z" date="D:20231115153829Z" flags="print" name="01HF9T3Z957FKK3A3PFAWPDN5T" page="0" rect="19.315624,707.724976,163.403122,762.924988" width="0.000000"><contents>Test entering 
+text on Web</contents>
+<contents-richtext><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.12" xfa:spec="2.0.2"><p>Test entering 
+text on Web</p></body></contents-richtext>
+<defaultappearance>/Helvetica 24 Tf 0.431373 0.690196 0 rg </defaultappearance>
+<defaultstyle>font:24.00pt &quot;Helvetica&quot;; color:#6EB000; </defaultstyle>
+</freetext>
+</annots>
+</xfdf>
